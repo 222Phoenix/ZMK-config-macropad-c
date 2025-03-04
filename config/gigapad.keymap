@@ -17,7 +17,7 @@
         default_layer {
             bindings = <
                 // Blackpill onboard user key button
-                &mms MS_TP_SENSITIVITY_INCR
+                &kp A
 
                 // Switches connected directly to gpio pins
                 &kp B
